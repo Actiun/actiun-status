@@ -1,39 +1,60 @@
-activeIncidents: Incidentes activos
-allSystemsOperational: Todos los sistemas están operativos
-incidentReport: "Informe de incidente #$NUMBER →"
-activeIncidentSummary: Abierto el $DATE con $POSTS publicaciones
-incidentTitle: Detalles del incidente $NUMBER
-incidentDetails: Detalles del incidente
-incidentFixed: Solucionado
-incidentOngoing: En curso
-incidentOpenedAt: Abierto el
-incidentClosedAt: Cerrado el
-incidentViewOnGitHub: Ver y suscribirse en GitHub
-incidentCommentSummary: Publicado el $DATE por $AUTHOR
-incidentBack: ← Volver a todos los incidentes
-pastIncidents: Incidentes pasados
-pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS publicaciones
-liveStatus: Estado en vivo
-overallUptime: "Tiempo total de actividad: $UPTIME"
-overallUptimeTitle: Tiempo total de actividad
-averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
-averageResponseTimeTitle: Tiempo de respuesta promedio
-sevelDayResponseTime: Tiempo de respuesta de 7 días
-responseTimeMs: Tiempo de respuesta (ms)
-up: Activo
-down: Inactivo
-degraded: Degradado
-ms: ms
-loading: Cargando
-navGitHub: GitHub
-footer: Esta página es [open source]($REPO), impulsada por [Upptime](https://upptime.js.org)
-rateLimitExceededTitle: Límite de velocidad excedido
-rateLimitExceededIntro: Has excedido el número de solicitudes que puedes hacer en una hora, por lo que tendrás que esperar antes de acceder a este sitio web nuevamente. Alternativamente, puedes agregar un Token de Acceso Personal de GitHub para seguir utilizando este sitio web.
-rateLimitExceededWhatDoesErrorMean: ¿Qué significa este error?
-rateLimitExceededErrorMeaning: Este sitio web utiliza la API de GitHub para acceder a datos en tiempo real sobre el estado de nuestros sitios web. Por defecto, GitHub permite 60 solicitudes por hora para cada dirección IP, las cuales has consumido.
-rateLimitExceededErrorHowCanFix: ¿Cómo puedo solucionarlo?
-rateLimitExceededErrorFix: Puedes esperar otra hora y se restaurará el límite de tu dirección IP. Alternativamente, puedes agregar tu Token de Acceso Personal de GitHub, lo que te brinda 5,000 solicitudes adicionales por hora.
-rateLimitExceededGeneratePAT: Aprende cómo generar un Token de Acceso Personal
-rateLimitExceededHasSet: Tienes un Token de Acceso Personal configurado.
-rateLimitExceededRemoveToken: Eliminar token
-rateLimitExceededGitHubPAT: Token de Acceso Personal de
+i18n:
+  url: "URL"
+  status: "Estatus"
+  history: "Historial"
+  responseTime: "Tiempo de respuesta"
+  uptime: "Tiempo de actividad"
+  responseTimeGraphAlt: "Gráfico de tiempo de respuesta"
+  responseTime: "Tiempo de respuesta"
+  responseTimeDay: "Tiempo de respuesta de 24 horas"
+  responseTimeWeek: "Tiempo de respuesta de 7 días"
+  responseTimeMonth: "Tiempo de respuesta de 30 días"
+  responseTimeYear: "Tiempo de respuesta de 1 año"
+  uptimeDay: "Tiempo de actividad de 24 horas"
+  uptimeWeek: "Tiempo de actividad de 7 días"
+  uptimeMonth: "Tiempo de actividad de 30 días"
+  uptimeYear: "Tiempo de actividad de 1 año"
+  liveStatus: "Estatus en vivo"
+  liveStatusHtmlComment: "<!--estatus en vivo-->"
+  allSystemsOperational: "🟩 Todos los sistemas operativos"
+  degradedPerformance: "🟨 Rendimiento degradado"
+  completeOutage: "🟥 Interrupción completa"
+  partialOutage: "🟧 Interrupción parcial"
+  activeIncidents: Incidentes activos
+  incidentReport: "Informe de incidente #$NUMBER →"
+  activeIncidentSummary: Abierto el $DATE con $POSTS publicaciones
+  incidentTitle: Detalles del incidente $NUMBER
+  incidentDetails: Detalles del incidente
+  incidentFixed: Solucionado
+  incidentOngoing: En curso
+  incidentOpenedAt: Abierto el
+  incidentClosedAt: Cerrado el
+  incidentViewOnGitHub: Ver y suscribirse en GitHub
+  incidentCommentSummary: Publicado el $DATE por $AUTHOR
+  incidentBack: ← Volver a todos los incidentes
+  pastIncidents: Incidentes pasados
+  pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS publicaciones
+  liveStatus: Estatus en vivo
+  overallUptime: "Tiempo total de actividad: $UPTIME"
+  overallUptimeTitle: Tiempo total de actividad
+  averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
+  averageResponseTimeTitle: Tiempo de respuesta promedio
+  sevelDayResponseTime: Tiempo de respuesta de 7 días
+  responseTimeMs: Tiempo de respuesta (ms)
+  up: "🟩 Activo"
+  degraded: "🟨 Degradado"
+  down: "🟥 Inactivo"
+  ms: "ms"
+  loading: Cargando
+  navGitHub: GitHub
+  footer: Esta página es [open source]($REPO), impulsada por [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Límite de velocidad excedido
+  rateLimitExceededIntro: Has excedido el número de solicitudes que puedes hacer en una hora, por lo que tendrás que esperar antes de acceder a este sitio web nuevamente. Alternativamente, puedes agregar un Token de Acceso Personal de GitHub para seguir utilizando este sitio web.
+  rateLimitExceededWhatDoesErrorMean: ¿Qué significa este error?
+  rateLimitExceededErrorMeaning: Este sitio web utiliza la API de GitHub para acceder a datos en tiempo real sobre el estatus de nuestros sitios web. Por defecto, GitHub permite 60 solicitudes por hora para cada dirección IP, las cuales has consumido.
+  rateLimitExceededErrorHowCanFix: ¿Cómo puedo solucionarlo?
+  rateLimitExceededErrorFix: Puedes esperar otra hora y se restaurará el límite de tu dirección IP. Alternativamente, puedes agregar tu Token de Acceso Personal de GitHub, lo que te brinda 5,000 solicitudes adicionales por hora.
+  rateLimitExceededGeneratePAT: Aprende cómo generar un Token de Acceso Personal
+  rateLimitExceededHasSet: Tienes un Token de Acceso Personal configurado.
+  rateLimitExceededRemoveToken: Eliminar token
+  rateLimitExceededGitHubPAT: Token de Acceso Personal de
