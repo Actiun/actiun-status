@@ -12,7 +12,7 @@ status-website:
   cname: status.actiun.com
   logoUrl: https://raw.githubusercontent.com/actiun/actiun-status/master/assets/actiun-logo.png
   favicon: https://raw.githubusercontent.com/actiun/actiun-status/master/assets/actiun-favicon.ico
-  name: Actiun Estatus
+  theme: light
   introTitle: "Sobre este sitio"
   introMessage: Bienvenido al monitor de estatus de Actiun. Aquí encontrarás información en tiempo real sobre el estado de nuestros servicios.
   navbar:
