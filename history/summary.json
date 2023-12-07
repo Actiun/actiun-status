@@ -4,17 +4,19 @@
     "url": "https://app.actiun.com",
     "icon": "https://raw.githubusercontent.com/actiun/actiun-status/master/assets/actiun-favicon.ico",
     "slug": "actiun",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 507,
-    "timeDay": 1040,
-    "timeWeek": 548,
-    "timeMonth": 507,
-    "timeYear": 507,
-    "dailyMinutesDown": {}
+    "time": 501,
+    "timeDay": 401,
+    "timeWeek": 527,
+    "timeMonth": 501,
+    "timeYear": 501,
+    "dailyMinutesDown": {
+      "2023-12-07": 0
+    }
   }
 ]
