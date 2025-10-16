@@ -1,7 +1,7 @@
 url: https://app.actiun.com
-status: up
+status: degraded
 code: 200
-responseTime: 699
-lastUpdated: 2025-10-15T23:09:26.105Z
+responseTime: 16792
+lastUpdated: 2025-10-16T22:41:31.123Z
 startTime: 2023-11-11T18:46:26.608Z
 generator: Upptime <https://github.com/upptime/upptime>
