@@ -1,7 +1,7 @@
 url: https://app.actiun.com
-status: down
+status: degraded
 code: 502
-responseTime: 820
-lastUpdated: 2025-11-05T10:49:00.796Z
+responseTime: 6353
+lastUpdated: 2025-11-05T11:38:02.373Z
 startTime: 2023-11-11T18:46:26.608Z
 generator: Upptime <https://github.com/upptime/upptime>
