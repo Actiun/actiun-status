@@ -4,7 +4,7 @@
     "url": "https://app.actiun.com",
     "icon": "https://raw.githubusercontent.com/actiun/actiun-status/master/assets/actiun-favicon.ico",
     "slug": "actiun",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 750,
     "timeYear": 1294,
     "dailyMinutesDown": {
+      "2026-03-10": 0,
       "2025-12-02": 61,
       "2025-12-01": 8,
       "2025-11-26": 42,
